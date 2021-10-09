@@ -5,7 +5,7 @@ console.log('Math training');
 // Settings
 const maxValue = 9999;
 const minValue = 11;
-const examplesRange = 10;
+const examplesRange = 100;
 const fileName = './examples.txt';
 // =================================
 
